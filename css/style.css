@@ -1,0 +1,19 @@
+.col50{
+  width:45%;
+  float:left;
+  margin: 5px;
+}
+.col30{
+  width:30%;
+  float:left;
+  margin: 5px;
+
+
+}
+.clear{
+  clear: both;
+}
+.lists{
+  font-size: 20px;
+  font-family:  sans-serif;
+}
